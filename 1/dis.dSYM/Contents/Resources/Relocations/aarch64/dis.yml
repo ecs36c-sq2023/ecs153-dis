@@ -1,0 +1,10 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/hongxiangzhang/Documents/discussions/1/dis'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: __Z16repeatThreeTimesPFvvE, symObjAddr: 0x0, symBinAddr: 0x100003ED0, symSize: 0x34 }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: __Z16repeatThreeTimesPFvvE, symObjAddr: 0x0, symBinAddr: 0x100003ED0, symSize: 0x34 }
+  - { offsetInCU: 0x69, offset: 0x69, size: 0x8, addend: 0x0, symName: __Z5hellov, symObjAddr: 0x34, symBinAddr: 0x100003F04, symSize: 0x1C }
+  - { offsetInCU: 0x82, offset: 0x82, size: 0x8, addend: 0x0, symName: __Z7goodbyev, symObjAddr: 0x50, symBinAddr: 0x100003F20, symSize: 0x1C }
+  - { offsetInCU: 0x9B, offset: 0x9B, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x6C, symBinAddr: 0x100003F3C, symSize: 0x40 }
+...
